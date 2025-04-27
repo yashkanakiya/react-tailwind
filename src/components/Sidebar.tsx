@@ -6,7 +6,7 @@ import {
   // ChartPieIcon,
   // DocumentDuplicateIcon,
   // FolderIcon,
-  // UsersIcon,
+  UsersIcon,
   Bars3Icon,
   HomeIcon,
   XMarkIcon,
@@ -14,7 +14,7 @@ import {
 
 const initialNavigation = [
   { name: 'Stock Calculator', href: '/stock-calculator', icon: HomeIcon },
-  // { name: 'Team', href: '/team', icon: UsersIcon },
+  { name: 'Rule72', href: '/rule-72', icon: UsersIcon },
   // { name: 'Projects', href: '/projects', icon: FolderIcon },
   // { name: 'Calendar', href: '/calendar', icon: CalendarIcon },
   // { name: 'Documents', href: '/documents', icon: DocumentDuplicateIcon },
